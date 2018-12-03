@@ -5,3 +5,6 @@ Generates strings based on following constraints:
 -	Must contains at least 1 uppercase and 1 lower case letter
 -	Must contains at least 1 number
 -	Must contains at least one of these special characters -|@.,?/!~#%^&*(){}[]\=*
+
+# Usage
+`py rngPassword.py`
